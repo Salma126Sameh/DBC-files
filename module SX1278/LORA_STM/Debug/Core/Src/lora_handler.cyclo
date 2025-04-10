@@ -1,0 +1,10 @@
+../Core/Src/lora_handler.c:25:6:LoRa_handle_init	2
+../Core/Src/lora_handler.c:58:9:LoRa_SendData	3
+../Core/Src/lora_handler.c:63:9:LoRa_ReceiveData	3
+../Core/Src/lora_handler.c:68:6:LoRa_SendACK	1
+../Core/Src/lora_handler.c:73:6:LoRa_SendNotACK	1
+../Core/Src/lora_handler.c:78:6:WaitForACK	5
+../Core/Src/lora_handler.c:99:6:LoRa_SendWithRetry	11
+../Core/Src/lora_handler.c:157:6:ForwardDataToSecondLoRa	4
+../Core/Src/lora_handler.c:174:6:ProcessReceivedData	6
+../Core/Src/lora_handler.c:213:6:SendExampleMessage	2
