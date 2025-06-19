@@ -1,2 +1,0 @@
-../Core/Src/ack_handler.c:5:6:receive_ack	288	static
-../Core/Src/ack_handler.c:39:6:sendMessageAndWaitForAck	336	static

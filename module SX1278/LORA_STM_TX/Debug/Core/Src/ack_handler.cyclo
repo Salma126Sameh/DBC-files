@@ -1,2 +1,0 @@
-../Core/Src/ack_handler.c:5:6:receive_ack	11
-../Core/Src/ack_handler.c:39:6:sendMessageAndWaitForAck	2
