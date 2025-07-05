@@ -1,5 +1,0 @@
-../Core/Src/mpu_6050_task.c:26:6:set_last_read_angle_data	40	static
-../Core/Src/mpu_6050_task.c:34:15:get_last_time	4	static
-../Core/Src/mpu_6050_task.c:39:8:get_last_x_angle	4	static
-../Core/Src/mpu_6050_task.c:44:8:get_last_y_angle	4	static
-../Core/Src/mpu_6050_task.c:54:6:MPU6050_Data	56	static,ignoring_inline_asm

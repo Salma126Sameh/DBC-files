@@ -1,0 +1,6 @@
+../Core/Src/communication.c:13:6:CheckSignalAndSwitchCommunication	2
+../Core/Src/communication.c:26:6:SendGPSDataViaMQTT	2
+../Core/Src/communication.c:39:6:SendMPU6050DataViaMQTT	2
+../Core/Src/communication.c:50:6:SendCANDataViaMQTT	2
+../Core/Src/communication.c:63:6:SendAccidentDataViaLoRa	1
+../Core/Src/communication.c:70:6:HandleLoRaCommunication	2
